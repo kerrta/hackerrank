@@ -6,6 +6,7 @@
 #include <limits.h>
 #include <stdbool.h>
 
+// Finds the ratio for negative, positive, and zero integers in an array
 int main(){
     int n;
     double pos = 0, neg = 0, zero = 0; 
